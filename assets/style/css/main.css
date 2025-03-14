@@ -12,6 +12,15 @@ body {
     padding: 0;
 }
 
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+button {
+    background-color: transparent;
+    border: none;
+}
 .page {
     width: 100vw;
     height: 100vh;
